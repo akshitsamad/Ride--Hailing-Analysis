@@ -1,4 +1,4 @@
-[Ride-Hailing Dashboard](https://cdni.iconscout.com/illustration/premium/thumb/ride-hailing-app-illustration-svg-download-png-10254712.png)
+[Ride-Hailing Dashboard](https://www.zervx.com/_next/static/media/Ride_hailing_app.1cfb941f.webp)
 
 # Ride-Hailing Analysis
 
