@@ -1,4 +1,5 @@
-[Ride-Hailing Dashboard](https://www.theglobeandmail.com/resizer/v2/LTPANUBEYBJT7LZC5RAAVUQCMA.jpg?auth=1b7f2ce5998e861e7e09a9c0ea3aed1605abdea4e1704e22a4606d1480b91175&width=1200&quality=80)
+[Ride-Hailing Dashboard](![Uploading image.png…]()
+)
 
 # Ride-Hailing Analysis
 
